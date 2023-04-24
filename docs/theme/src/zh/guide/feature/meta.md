@@ -14,7 +14,7 @@ tag:
 
 <!-- more -->
 
-## 基于 Git 的信息
+## Git
 
 `vuepress-theme-hope` 通过内置 [`@vuepress/plugin-git`][git] 插件，实现了页面创建时间、最后更新时间与贡献者的自动生成。
 
